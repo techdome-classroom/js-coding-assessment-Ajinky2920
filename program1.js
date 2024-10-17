@@ -25,7 +25,12 @@ function distinct_islands(r,c){
 return numberofislands;
 };
 
-const grid1=
+const grid1=[
+    ["L","L","L","L","W"],
+    ["L","L","W","L","W"],
+    ["L","L","W","W","W"],
+    ["W","W","W","W","W"],
+]
 
 module.exports = getTotalIsles;
 
