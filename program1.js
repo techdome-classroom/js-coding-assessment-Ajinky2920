@@ -16,7 +16,7 @@ function distinct_islands(r,c){
     for(let c=0; c < clos;c++){
         if (grid[r][c]==='L'){
             numberofislands++;
-            
+            distinct_islands
         }
     }
  }
