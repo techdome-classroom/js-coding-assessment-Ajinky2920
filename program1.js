@@ -33,7 +33,7 @@ const grid1=[
 ];
 console.log(getTotalIsles(grid1));
 
-console grid2= [
+co0ole grid2= [
     ["L","L","W","W","W"],
     ["L","L","W","W","W"],
     ["W","W","L","W","W"],
