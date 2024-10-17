@@ -1,6 +1,6 @@
 const getTotalIsles = function (grid) {
  if (!grid || grid.length ===0) 
-    re
+    return
 const rows =grid.length;
 const clos =grid[0].length;
 let numberofislands =0;
