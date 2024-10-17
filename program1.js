@@ -33,7 +33,7 @@ const grid1=[
 ];
 console.log(getTotalIsles(grid1));
 
-console grid2
+console grid2=
 
 module.exports = getTotalIsles;
 
