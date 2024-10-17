@@ -31,7 +31,7 @@ const grid1=[
     ["L","L","W","W","W"],
     ["W","W","W","W","W"],
 ];
-console.log
+console.log()
 
 module.exports = getTotalIsles;
 
