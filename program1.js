@@ -14,7 +14,9 @@ function distinct_islands(r,c){
 }
  for (let r=0; r < rows; r++ ){
     for(let c=0; c < clos;c++){
-        if (grid[r][c]==='L')
+        if (grid[r][c]==='L'){
+            
+        }
     }
  }
 
