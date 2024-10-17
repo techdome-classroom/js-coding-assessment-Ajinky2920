@@ -1,6 +1,7 @@
 const getTotalIsles = function (grid) {
 
-const rows =grid.length
+const rows =grid.length;
+const cloumes
 
 
 };
