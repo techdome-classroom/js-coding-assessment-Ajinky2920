@@ -10,7 +10,7 @@ function distinct_islands(r,c){
     distinct_islands(r+1,c)
     distinct_islands(r-1,c)
     distinct_islands(r,c+1)
-    distinct_islands
+    distinct_islands()
 }
 
 
