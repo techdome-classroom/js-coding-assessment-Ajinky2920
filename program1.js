@@ -35,13 +35,13 @@ const grid1=[
 ];
 console.log(getTotalIsles(grid1));
 
-const grid2= [
-    ["L","L","W","W","W"],
-    ["L","L","W","W","W"],
-    ["W","W","L","W","W"],
-    ["W","W","W","L","L"],
-];
-console.log(getTotalIsles(grid2))
+// const grid2= [
+//     ["L","L","W","W","W"],
+//     ["L","L","W","W","W"],
+//     ["W","W","L","W","W"],
+//     ["W","W","W","L","L"],
+// ];
+// console.log(getTotalIsles(grid2))
 
 
 module.exports = getTotalIsles;
