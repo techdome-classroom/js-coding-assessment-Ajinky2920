@@ -5,7 +5,7 @@ const rows =grid.length;
 const clos =grid[0].length;
 let numberofislands =0;
 
-function distinct_islands(r,c){
+con distinct_islands(r,c){
     if (r < 0 || r >= rows || c < 0 || c >= clos || grid[r]==='w'||grid[c]==='w' ) 
         return 1;
 
