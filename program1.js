@@ -8,7 +8,7 @@ let numberofislands =0;
 const distinct_islands = function (r,c){
     if (r < 0 || r >= rows || c < 0 || c >= clos || grid[r]==='w'||grid[c]==='w' ) 
         return 1;
-     grid[r]
+     grid[r][c]
     distinct_islands(r+1,c);
     distinct_islands(r-1,c);
     distinct_islands(r,c+1);
