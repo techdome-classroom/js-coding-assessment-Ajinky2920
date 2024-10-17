@@ -5,7 +5,7 @@ const clos =grid[0].length;
 let numberofislands =0;
 
 function distinct_islands(r,c){
-    if(r<0 )
+    if(r<0 || r >= rows)
 }
 
 
