@@ -25,7 +25,7 @@ function distinct_islands(r,c){
 return numberofislands;
 };
 
-const grid=
+const grid1=
 
 module.exports = getTotalIsles;
 
