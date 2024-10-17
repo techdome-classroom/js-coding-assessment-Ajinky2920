@@ -1,6 +1,6 @@
 const getTotalIsles = function (grid) {
 
-const rows =grid.lengh
+const rows =grid.length
 
 
 };
