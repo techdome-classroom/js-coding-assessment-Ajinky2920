@@ -22,7 +22,4 @@ const decodeTheRing = function (s, p) {
   console.log(decodeTheRing("hello", "h*llo"));
   console.log(decodeTheRing("secret", "sec?"));
   console.log(decodeTheRing("codeword", "c*de"));
-  console.log(decodeTheRing("abcd","a*e"));
-  console.log(decodeTheRing("abcd","a*f"));
-  
   module.exports = decodeTheRing;
