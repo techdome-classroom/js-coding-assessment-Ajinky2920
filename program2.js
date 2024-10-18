@@ -1,6 +1,6 @@
 const decodeTheRing = function (s, p) {
-   const match(SI,PI){
-    
+   const match= (SI,PI){
+
    }
     
 
