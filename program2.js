@@ -10,7 +10,7 @@ const decodeTheRing = function (s, p) {
       return match(si,pi+1) || (si<si.length&&match(si+1,pi));
      }
      if(p[pi]==='?'){
-      return si<s.length&&match(si+1,pi+1);
+      return si<s.length && match(si+1,pi+1);
      }
      if(si<s.length&&s[si]===p[pi]){
       return match(si+1,pi+1);
