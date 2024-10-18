@@ -19,7 +19,7 @@ const decodeTheRing = function (s, p) {
    }
    return match(0,0);
   };
-  console.log(decodeTheRing("aa","a"));
+  console.log(decodeTheRing("hello", "h*llo"));
   console.log(decodeTheRing("aa","*"));
   console.log(decodeTheRing("cd","?a"));
   console.log(decodeTheRing("abcd","a*e"));
