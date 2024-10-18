@@ -15,7 +15,7 @@ const decodeTheRing = function (s, p) {
      if(si<s.length&&s[si]===p[pi]){
       return match(si+1,pi+1);
      }
-     
+     return false;
    }
     
 
