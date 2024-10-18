@@ -21,7 +21,7 @@ const decodeTheRing = function (s, p) {
   };
   console.log(decodeTheRing("hello", "h*llo"));
   console.log(decodeTheRing("secret", "sec?"));
-  console.log(decodeTheRing("cd","?a"));
+  console.log(decodeTheRing
   console.log(decodeTheRing("abcd","a*e"));
   console.log(decodeTheRing("abcd","a*f"));
   
