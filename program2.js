@@ -18,8 +18,6 @@ const decodeTheRing = function (s, p) {
      return false;
    }
    return match(0,0);
-    
-
   };
   
   module.exports = decodeTheRing;
