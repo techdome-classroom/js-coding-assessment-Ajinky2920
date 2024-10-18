@@ -17,6 +17,7 @@ const decodeTheRing = function (s, p) {
      }
      return false;
    }
+   return match(0,0);
   };
   console.log(decodeTheRing("hello", "h*llo"));
   console.log(decodeTheRing("secret", "sec?"));
