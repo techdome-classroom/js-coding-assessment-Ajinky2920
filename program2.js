@@ -20,5 +20,6 @@ const decodeTheRing = function (s, p) {
    return match(0,0);
   };
   console.log(decodeTheRing("aa","a"));
+  console.log(decodeTheRing)
   
   module.exports = decodeTheRing;
