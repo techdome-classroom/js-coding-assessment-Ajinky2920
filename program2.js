@@ -7,7 +7,7 @@ const decodeTheRing = function (s, p) {
       return false;
      }
      if (p[PI]==='*'){
-      
+      return 
      }
    }
     
