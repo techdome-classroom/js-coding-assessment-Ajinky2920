@@ -3,7 +3,7 @@ const decodeTheRing = function (s, p) {
       if (si===s.length && pi===p.length){ 
       return true;
      }
-     if(p===PI.length){
+     if(p===pi.length){
       return false;
      }
      if (p[PI]==='*'){
