@@ -22,6 +22,6 @@ const decodeTheRing = function (s, p) {
   console.log(decodeTheRing("aa","a"));
   console.log(decodeTheRing("aa","*"));
   console.log(decodeTheRing("cd","?a"));
-  console.log(decodeTheRing())
+  console.log(decodeTheRing(""))
   
   module.exports = decodeTheRing;
