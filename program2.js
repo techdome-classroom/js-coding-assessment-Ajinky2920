@@ -3,7 +3,9 @@ const decodeTheRing = function (s, p) {
       if (SI===s.length && PI===p.length){ 
       return true;
      }
-     if(PI===PI.length)
+     if(PI===PI.length){
+      return false;
+     }
    }
     
 
