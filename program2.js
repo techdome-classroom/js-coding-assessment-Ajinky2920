@@ -1,5 +1,5 @@
 const decodeTheRing = function (s, p) {
-   const mach
+   const match
     
 
   };
