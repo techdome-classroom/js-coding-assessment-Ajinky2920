@@ -1,6 +1,6 @@
 const decodeTheRing = function (s, p) {
    const match =function(si,pi){
-      if (SI===s.length && PI===p.length){ 
+      if (si===s.length && PI===p.length){ 
       return true;
      }
      if(p===PI.length){
